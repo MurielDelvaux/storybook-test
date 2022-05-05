@@ -1,0 +1,13 @@
+.storybook-input--normal{
+    width: auto;
+    height: 2em;
+    border-radius: 0.2em;
+}
+.storybook-input--small{
+    width: auto;
+    height: 1.5em;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+}
